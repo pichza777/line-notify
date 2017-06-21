@@ -1,5 +1,5 @@
 {
-  "name": "monitor-server",
+  "name": "line-notify",
   "version": "1.0.0",
   "description": "for teach use line notify report server status",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noob-studio/monitor-server.git"
+    "url": "git+https://github.com/pichza777/line-notify.git"
   },
   "author": "freeweed",
   "license": "WTFPL",
